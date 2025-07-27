@@ -15,7 +15,7 @@ This demo shows how PIHR provides interpretable diagnoses through:
 
 ```bash
 # Clone the repository
-git clone https://github.com/[your-username]/PIHR-interpretability-demo.git
+git clone https://github.com/[USTB001]/PIHR-interpretability-demo.git
 cd PIHR-interpretability-demo
 
 # Install requirements
